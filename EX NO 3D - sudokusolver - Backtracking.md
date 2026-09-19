@@ -21,7 +21,7 @@ For example:
 /*
 Program to implement Reverse a String
 Developed by: PRIYANGA R
-Register Number: 212223240161
+Register Number: 212223230161
 */
 import java.util.Scanner;
 
